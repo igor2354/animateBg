@@ -1,4 +1,6 @@
 
+// оригинл скрипта https://codepen.io/alexzaworski/pen/mEkvAG
+
 let collectionItemAnimate = Array.prototype.slice.call(document.querySelectorAll('.animate-canvas'));
 
 collectionItemAnimate.forEach(function (item, i) {
